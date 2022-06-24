@@ -10,3 +10,6 @@ si esta en linux
 ```bash
 python main.py
 ```
+capturas del juego
+
+![Pong Game](./game.PNG)
